@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+这里是汐学组，一个致力于帮助西安交大新生的学生组织，并且正在努力扩大自己的影响力，以帮助到更多的人！
 
-**Here are some ideas to get you started:**
+无论是教程/指南/复习资料，我们都有制作，并稳定产出！🎉
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+大多数内容将从之前的QQ群组缓慢迁移至GitHub，并将GitHub作为将来资料的首发平台。
+
+加入我们，学习各种知识，并使用Markdown&$\LaTeX$制作资料，为开源社区贡献自己的力量。❤️
